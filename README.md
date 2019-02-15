@@ -18,6 +18,8 @@ the purely learning-based method may have a high potential for the adaptation to
 ne-tuning the pre-trained network with a small training sample on the target application, where the availability of
 larger datasets with manual annotations may boost the overall segmentation accuracy in the future.
 
+### Publication
+
 DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy<br />
 Christian Wachinger, Martin Reuter, Tassilo Klein<br />
 https://arxiv.org/abs/1702.08192<br />
