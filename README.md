@@ -22,8 +22,8 @@ larger datasets with manual annotations may boost the overall segmentation accur
 
 DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy<br />
 Christian Wachinger, Martin Reuter, Tassilo Klein<br />
-https://arxiv.org/abs/1702.08192<br />
-https://www.sciencedirect.com/science/article/pii/S1053811917301465?via%3Dihub
+https://arxiv.org/abs/1702.08192, 2017<br />
+[NeuroImage, 2018](https://www.sciencedirect.com/science/article/pii/S1053811917301465)
 
 ### Requirements
 
